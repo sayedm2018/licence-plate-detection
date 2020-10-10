@@ -1,3 +1,3 @@
 # licence-plate-detection
-##Unstaging mode
-##staging mode
+## Unstaging mode
+## Staging mode
